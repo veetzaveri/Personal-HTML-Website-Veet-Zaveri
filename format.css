@@ -1,0 +1,23 @@
+h2 {
+    font-family: arial;
+    font-size: 18pt;
+    color: #751aff;
+}
+
+p {
+    font-family: Courier;
+    font-size: 16pt;
+    color:darkorange;
+}
+
+.movie {
+    font-family: Forte;
+    font-size: 23pt;
+    color: green;
+}
+
+#top {
+    font-family: Broadway;
+    font-size: 23pt;
+    color: blueviolet;
+}
